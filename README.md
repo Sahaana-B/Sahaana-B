@@ -1,6 +1,3 @@
-Here's a refined and professional version for your GitHub README profile:
-
----
  👋 Hi there, I’m Sahaana B!
 
 I am a passionate data science enthusiast with a keen interest in deriving insights and making data-driven decisions. 
